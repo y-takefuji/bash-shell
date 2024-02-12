@@ -1,4 +1,4 @@
-# preprocessing using bash for machine leaning
+# preprocessing using bash for machine leaning 
 
 This repository is for novice programmers how to use terminal commands 
 (bash or zsh) for machine learning preprocessing an d data manipulations.
